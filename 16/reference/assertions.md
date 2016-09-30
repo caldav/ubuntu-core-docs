@@ -1,3 +1,0 @@
----
-title: Assertions syntax
----
